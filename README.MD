@@ -8,7 +8,7 @@ Projeto construído no evento Next level da Rocketseats
 
 [clique aqui para acessar](http://congelado860.github.io/nlw-esports-explorer)
 
-## : Tecnologias
+## Tecnologias
 -HTML
 
 -CSS
